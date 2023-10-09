@@ -1,1 +1,3 @@
-eyou
+Revistas prestadas: 0
+Revistas disponibles: 10
+Revistas reservadas: 0
