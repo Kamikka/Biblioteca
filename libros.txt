@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Libros prestados: 120
-=======
-Libros prestados: 120
->>>>>>> eb9b7febc88ab111df7a37a3d28da382b43ecd1d
+Libros prestados: 122332
 Libros disponibles: 210
 Libros reservados: 3
